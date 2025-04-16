@@ -1,0 +1,351 @@
+---
+
+- taxonomy: 资讯
+  icon: fas fa-rss-square
+  list:
+    - term: 社交
+      links: 
+        - title: 微博
+          logo: Weibo.png
+          url: https://www.weibo.com/mygroups?gid=110007845984403
+          description: 随时随地发现新鲜事
+        - title: X
+          logo: X.png
+          url: https://www.x.com/
+          description: Blaze your glory!  
+    - term: 视频
+      links: 
+        - title: BiliBili
+          logo: bilibili.png
+          url: http://www.bilibili.com/
+          description: 哔哩哔哩 (゜-゜)つロ 干杯
+        - title: YouTube
+          logo: Youtube.png
+          url: https://www.youtube.com/
+          description: Broadcast Yourself
+    - term: 社区
+      links: 
+        - title: linux.do
+          logo: linux.do.png
+          url: https://linux.do/
+          description: 新的理想型社区
+        - title: Github
+          logo: github.png
+          url: https://github.com/
+          description: Build software better, together
+        - title: reddit
+          logo: reddit.png
+          url: https://www.reddit.com/
+          description: Dive into anything
+        - title: 通往 AGI 之路
+          logo: waytoAGI.png
+          url: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+          description: 通往 AGI 之路
+
+    - term: 新闻
+      links: 
+        - title: Techmeme
+          logo: Techmeme.png
+          url: https://www.techmeme.com/
+          description: 科技新闻聚合器
+        - title: fortune
+          logo: fortune.png
+          url: https://fortune.com/tag/artificial-intelligence/
+          description: 《财富》杂志
+        - title: The New York Times
+          logo: The New York Times.png
+          url: https://www.nytimes.com/section/technology
+          description: 《纽约时报》
+        - title: Financial Times
+          logo: Financial Times.png
+          url: https://www.ft.com/artificial-intelligence
+          description: 《金融时报》
+        - title: The Wall Street Journal.
+          logo: The Wall Street Journal.png
+          url: https://www.wsj.com/tech/ai?mod=nav_top_subsection
+          description: 《华尔街日报》
+        - title: The New Yourker
+          logo: The New Yourker.png
+          url: https://www.newyorker.com/science/annals-of-artificial-intelligence
+          description: 《纽约客》
+        - title: Paywall Buster
+          logo: Paywall Buster.png
+          url: https://paywallbuster.com/
+          description: 打破付费墙
+
+- taxonomy: ViiTetrix
+  icon: fas fa-user-alt
+  list:
+    - term: Up
+      links: 
+        - title: 微博
+          logo: Weibo.png
+          url: https://www.weibo.com/
+          description: 随时随地发现新鲜事
+        - title: X
+          logo: X.png
+          url: https://www.x.com/
+          description: Blaze your glory!  
+        - title: BiliBili
+          logo: bilibili.png
+          url: http://www.bilibili.com/
+          description: 哔哩哔哩 (゜-゜)つロ 干杯
+        - title: YouTube
+          logo: Youtube.png
+          url: https://www.youtube.com/
+          description: Broadcast Yourself
+        - title: 公众号
+          logo: 公众号.png
+          url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=381302890&lang=zh_CN
+          description: 微信公众号
+    - term: 邮箱
+      links: 
+        - title: Gmail
+          logo: Gmail.png
+          url: https://mail.google.com/mail/u/0/#inbox
+          description: 谷歌邮箱
+        - title: Outlook
+          logo: Outlook.png
+          url: https://outlook.live.com/mail/0/
+          description: 微软邮箱  
+    - term: 学习
+      links: 
+        - title: 句乐部
+          logo: 句乐部.png
+          url: https://julebu.co/home
+          description: 英语打字学习
+        - title: IMSDb
+          logo: IMSDb.png
+          url: https://imsdb.com/
+          description: 英语电影剧本
+        - title: 微信读书
+          logo: weread.png
+          url: https://weread.qq.com/
+          description: 微信读书              
+
+
+- taxonomy: AI
+  icon: fas fa-user-astronaut
+  list:
+    - term: Chat
+      links:
+        - title: Deepseek
+          logo: Deepseek.png
+          url: https://chat.deepseek.com/
+          description: 探索未至之境
+        - title: ChatGPT
+          logo: ChatGPT.png
+          url: https://chatgpt.com/
+          description: Ask ChatGPT anything
+        - title: Claude
+          logo: Claude.png
+          url: https://claude.ai/new
+          description: Do the simple thing that works.
+    - term: Playground
+      links:
+        - title: Google AI Studio
+          logo: Google AI Studio.jpg
+          url: https://aistudio.google.com/prompts/new_chat
+          description: 使用 Gemini 开始构建的最快方法
+    - term: Platform
+      links:
+        - title: Deepseek
+          logo: Deepseek2.png
+          url: https://platform.deepseek.com/usage
+          description: 探索未至之境
+        - title: Siliconflow
+          logo: Siliconflow.png
+          url: https://cloud.siliconflow.cn/models
+          description: 加速 AGI 普惠人类
+        - title: OpenAI
+          logo: OpenAI.png
+          url: https://platform.openai.com/docs/overview
+          description: OpenAI developer platform
+        - title: Anthropic
+          logo: Anthropic.png
+          url: https://docs.anthropic.com/zh-CN/home
+          description: Do the simple thing that works.
+    - term: AI 服务状态
+      links:
+        - title: Google 
+          logo: Google AI Studio.jpg
+          url: https://aistudio.google.com/status
+          description: Google AI Studio and the Gemini API Status
+    - term: AI 项目
+      links:
+        - title: Gemini Search
+          logo: Gemini-Search.png
+          url: https://github.com/ammaarreshi/Gemini-Search
+          description: 基于 Gemini 构建的谷歌搜索，每次两毛钱
+        - title: AI 文本检测
+          logo: AI 文本检测.png
+          url: https://ai-detector.fenz.ai/ai-detector?continueFlag=f99cec574e85101e19a1a0ca96697a71
+          description: Demo                 
+
+- taxonomy: 工具
+  icon: fas fa-toolbox
+  list:
+    - term: 下载
+      links:
+        - title: transok-wails
+          logo: transok-wails.png
+          url: https://github.com/bent2685/transok-wails
+          description: 局域网文件共享工具
+        - title: favicon.im
+          logo: favicon.im.png
+          url: https://favicon.im/
+          description: 网站 logo 下载
+        - title: Favicon Extractor
+          logo: Favicon Extractor.png
+          url: https://www.faviconextractor.com/
+          description: 网站 logo 下载
+        - title: YT 封面下载
+          logo: 封面下载.png
+          url: https://cftools.top/index.html
+          description: 下载 Youtube、BiliBili 视频封面
+        - title: 视频号下载
+          logo: 视频号下载.png
+          url: https://github.com/ltaoo/wx_channels_download
+          description: 直接在视频页面下载
+    - term: 爬虫
+      links:
+        - title: Firecrawl
+          logo: Firecrawl.png
+          url: https://www.firecrawl.dev/
+          description: Turn websites into LLM-ready data   
+    - term: 图片处理
+      links:
+        - title: Gemini OCR
+          logo: Gemini OCR.jpg
+          url: https://gemini-b9da2zesf-viitetrixs-projects.vercel.app/
+          description: 自部署基于 Google Gemini 2.0的高精度 OCR 文字识别应用
+        - title: olmOCR
+          logo: olmOCR.png
+          url: https://olmocr.allenai.org/
+          description: 目前最好的开源OCR模型（2025-2）
+        - title: SVG to PNG
+          logo: SVG to PNG.jpg
+          url: https://svgtopng.com/zh/
+          description: svg 格式的各种转换
+        - title: Upscayl
+          logo: Upscayl.png
+          url: https://github.com/upscayl/upscayl
+          description: 开源免费的 Ai 图像放大
+    - term: 排版
+      links:
+        - title: 微信 Markdown 编辑器
+          logo: mdnice.png
+          url: https://github.com/doocs/md?tab=readme-ov-file
+          description: 微信公众号排版
+        - title: Pollyoyo
+          logo: Pollyoyo.png
+          url: https://app.pollyoyo.com/dashboard/recently
+          description: 发现创作的乐趣
+        - title: W3C 中文排版规范
+          logo: W3C.png
+          url: https://www.w3.org/TR/clreq/
+          description: 中文（汉字）书写系统于排版上的需求 
+        - title: Slidev
+          logo: Slidev.png
+          url: https://github.com/slidevjs/slidev?tab=readme-ov-file
+          description: 为开发者打造的 markdown 演示文档           
+    - term: 订阅
+      links:
+        - title: Server 酱
+          logo: Server 酱.png
+          url: https://sct.ftqq.com/
+          description: 国内首创、适配软件和项目超多的极简推送API
+        - title: SubDeer
+          logo: SubDeer.png
+          url: https://subdeer.cn/my/orders
+          description: server 酱订单         
+        - title: AI RSS
+          logo: AI RSS.png
+          url: https://github.com/easychen/ai-rss
+          description: 通过 AI 将网页内容转换为 RSS 订阅源 
+
+- taxonomy: 素材
+  icon: fas fa-th-large
+  list:
+    - term: 图标
+      links:
+        - title: fontawesome
+          logo: fontawesome.png
+          url: https://fontawesome.com/v5/search?q=people&o=r&m=free
+          description: 导航栏图标 5.15.4 free
+        - title: 标小智
+          logo: 标小智.png
+          url: https://www.logosc.cn/favicon-generator?s=%E5%9B%BE%E6%A0%87
+          description: 输入文字生成文字图标
+        - title: iconfont
+          logo: iconfont.png
+          url: https://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+    - term: 音效
+      links:
+        - title: artlist
+          logo: artlist.png
+          url: https://artlist.io/
+          description: 付费订阅制 最佳免版税音效网站 
+    - term: 图像
+      links:
+        - title: 麦田艺术
+          logo: 麦田艺术.png
+          url: https://www.nbfox.com/
+          description: 收尽世界名画
+        - title: Artvee
+          logo: Artvee.png
+          url: https://artvee.com/
+          description: 发现最好的古典&现代艺术
+    - term: 字体
+      links:
+        - title: ZeoSeven™ Fonts
+          logo: ZeoSeven™ Fonts.png
+          url: https://fonts.zeoseven.com/
+          description: 免费可商用字体                     
+      
+- taxonomy: 资源
+  icon: fas fa-th
+  list:
+    - term: 音乐
+      links:
+        - title: 无损控资源
+          logo: wusunk.png
+          url: https://wusunk.com/
+          description: 无损音乐打包
+    - term: 电子书
+      links:
+        - title: z-library
+          logo: z-library.png
+          url: https://z-library.sk/
+          description: 最大免费电子书下载库
+        - title: Calibre
+          logo: Calibre.png
+          url: https://calibre-ebook.com/zh_CN
+          description: 电子书管理、发送至 kindle
+        - title: 安娜的档案
+          logo: annas-archive.png
+          url: https://zh.annas-archive.org/
+          description: 整合多个电子书平台资源
+        - title: 古登堡计划
+          logo: gutenberg.png
+          url: https://www.gutenberg.org/
+          description: 收录版权过期的公版书
+    - term: 影视
+      links:
+        - title: NoVIPNoAD
+          logo: NoVIPNoAD.png
+          url: https://www.novipnoad.net/
+          description: 免费、在线、无广、外语
+        - title: 低端影视
+          logo: 低端影视.png
+          url: https://ddys.info/
+          description: 免费、在线、无广、外语                                                       
+        - title: 迷客电影
+          logo: mini4k.png
+          url: https://mini4k.io/
+          description: 会员、种子、下载 
+        - title: SeedHub
+          logo: SeedHub.png
+          url: https://www.seedhub.cc/
+          description: 蓝光、4K，影视、动漫分享
