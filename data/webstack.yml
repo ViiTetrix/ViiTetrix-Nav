@@ -215,10 +215,6 @@
           description: Turn websites into LLM-ready data   
     - term: 图片处理
       links:
-        - title: Gemini OCR
-          logo: Gemini OCR.jpg
-          url: https://gemini-b9da2zesf-viitetrixs-projects.vercel.app/
-          description: 自部署基于 Google Gemini 2.0的高精度 OCR 文字识别应用
         - title: olmOCR
           logo: olmOCR.png
           url: https://olmocr.allenai.org/
