@@ -108,21 +108,6 @@
           logo: Outlook.png
           url: https://outlook.live.com/mail/0/
           description: 微软邮箱  
-    - term: 学习
-      links: 
-        - title: 句乐部
-          logo: 句乐部.png
-          url: https://julebu.co/home
-          description: 英语打字学习
-        - title: IMSDb
-          logo: IMSDb.png
-          url: https://imsdb.com/
-          description: 英语电影剧本
-        - title: 微信读书
-          logo: weread.png
-          url: https://weread.qq.com/
-          description: 微信读书              
-
 
 - taxonomy: AI
   icon: fas fa-user-astronaut
@@ -141,6 +126,12 @@
           logo: Claude.png
           url: https://claude.ai/new
           description: Do the simple thing that works.
+        - title: Grok
+          logo: Grok.png
+          url: https://grok.com/
+          description: 埃隆马斯克的 AI 助手
+
+
     - term: Playground
       links:
         - title: Google AI Studio
