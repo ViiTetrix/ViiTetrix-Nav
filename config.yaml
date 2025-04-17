@@ -1,4 +1,4 @@
-baseURL: "https://viitetrix.github.io/nav/"  # 网站的基础URL
+baseURL: "https://nav.viitetrix.com"  # 网站的基础URL
 languageCode: "zh-CN"                        # 网站语言代码
 title: "ViiTetrix 告别抓瞎"                  # 网站标题
 theme: "WebStack-Hugo"                       # 使用的主题
