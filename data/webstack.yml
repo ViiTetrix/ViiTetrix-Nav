@@ -127,7 +127,7 @@
           url: https://claude.ai/new
           description: Do the simple thing that works.
         - title: Grok
-          logo: Grok.png
+          logo: grok.png
           url: https://grok.com/
           description: 埃隆马斯克的 AI 助手
 
