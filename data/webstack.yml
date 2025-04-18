@@ -128,6 +128,10 @@
           logo: Deepseek.png
           url: https://chat.deepseek.com/
           description: 探索未至之境
+        - title: Genimi
+          logo: Gemini.png
+          url: https://gemini.google.com/app
+          description: 谷歌，免费高阶会员到 27年7月
         - title: ChatGPT
           logo: ChatGPT.png
           url: https://chatgpt.com/
@@ -174,6 +178,12 @@
           logo: OpenAI Cookbook.png
           url: https://cookbook.openai.com/
           description: OpenAI Cookbook
+    - term: 生图
+      links:
+        - title: ImageFX
+          logo: ImageFX.png
+          url: https://labs.google/fx/zh/tools/image-fx
+          description: Googele 免费
     - term: AI 服务状态
       links:
         - title: Google 
@@ -189,7 +199,13 @@
         - title: AI 文本检测
           logo: AI 文本检测.png
           url: https://ai-detector.fenz.ai/ai-detector?continueFlag=f99cec574e85101e19a1a0ca96697a71
-          description: Demo                 
+          description: Demo
+   - term: 竞技场
+      links:
+        - title: lmarena
+          logo: lmarena.png   
+          url: https://beta.lmarena.ai/leaderboard
+          description: 大模型的竞技场，排行榜，体验未发布模型              
 
 - taxonomy: 工具
   icon: fas fa-toolbox
