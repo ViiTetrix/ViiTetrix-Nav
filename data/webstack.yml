@@ -200,7 +200,7 @@
           logo: AI 文本检测.png
           url: https://ai-detector.fenz.ai/ai-detector?continueFlag=f99cec574e85101e19a1a0ca96697a71
           description: Demo
-   - term: 竞技场
+    - term: 竞技场
       links:
         - title: lmarena
           logo: lmarena.png   
