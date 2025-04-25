@@ -236,6 +236,10 @@
           logo: cobalt.png
           url: https://cobalt.tools/
           description: 支持多平台视频下载
+        - title: GreenVideo
+          logo: GreenVideo.png
+          url: https://greenvideo.cc/
+          description: 支持全球众多社交网络及视频平台的视频下载
     - term: 爬虫
       links:
         - title: Firecrawl
@@ -288,6 +292,13 @@
           logo: AI RSS.png
           url: https://github.com/easychen/ai-rss
           description: 通过 AI 将网页内容转换为 RSS 订阅源 
+    - term: 代码
+      links:
+        - title: Yourware
+          logo: Yourware.png
+          url: https://www.yourware.so/
+          description: 代码可视化展示
+
 
 - taxonomy: 素材
   icon: fas fa-th-large
