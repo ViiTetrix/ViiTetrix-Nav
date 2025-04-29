@@ -110,6 +110,10 @@
           logo: github.png
           url: https://github.com/
           description: Build software better, together
+        - title: DeepWiki
+          logo: DeepWiki.png
+          url: https://deepwiki.com/
+          description: Devin 出品免费的 Github 百科
         - title: Vercel
           logo: vercel.png
           url: https://vercel.com/viitetrixs-projects
@@ -343,12 +347,16 @@
 - taxonomy: 资源
   icon: fas fa-th
   list:
-    - term: 音乐
+    - term: 音频
       links:
         - title: 无损控资源
           logo: wusunk.png
           url: https://wusunk.com/
           description: 无损音乐打包
+        - title: Radio Garden
+          logo: Radio Garden.png
+          url: https://radio.garden/
+          description: 免费在线全球广播电台
     - term: 电子书
       links:
         - title: z-library
@@ -385,3 +393,7 @@
           logo: SeedHub.png
           url: https://www.seedhub.cc/
           description: 蓝光、4K，影视、动漫分享
+        - title: TV garden
+          logo: TV garden.png
+          url: https://tv.garden/
+          description: 免费观看全球在线电视
