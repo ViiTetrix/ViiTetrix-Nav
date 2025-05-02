@@ -187,12 +187,16 @@
       logo: ImageFX.png
       url: https://labs.google/fx/zh/tools/image-fx
       description: Googele 免费
-  - term: AI 服务状态
+    - title: Sora
+      logo: Sora.png
+      url: https://sora.com/explore
+      description: OpenAI 生图
+  - term: AI 助手
     links:
-    - title: Google
-      logo: Google AI Studio.jpg
-      url: https://aistudio.google.com/status
-      description: Google AI Studio and the Gemini API Status
+    - title: NotebookLM
+      logo: notebooklm.png
+      url: https://notebooklm.google.com/
+      description: 谷歌 AI 研究助理
   - term: AI 项目
     links:
     - title: Gemini Search
@@ -209,6 +213,12 @@
       logo: lmarena.png
       url: https://beta.lmarena.ai/leaderboard
       description: 大模型的竞技场，排行榜，体验未发布模型
+  - term: AI 服务状态
+    links:
+    - title: Google
+      logo: Google AI Studio.jpg
+      url: https://aistudio.google.com/status
+      description: Google AI Studio and the Gemini API Status
 - taxonomy: 工具
   icon: fas fa-toolbox
   list:
@@ -300,6 +310,16 @@
       logo: Yourware.png
       url: https://www.yourware.so/
       description: 代码可视化展示
+  - term: 接码
+    links:
+    - title: sms-activate
+      logo: sms-activate.png
+      url: https://sms-activate.guru/cn
+      description: 有余额
+    - title: daisysms
+      logo: daisySMS.png
+      url: https://daisysms.com/
+      description: 谷歌接码
 - taxonomy: 素材
   icon: fas fa-th-large
   list:
@@ -317,6 +337,10 @@
       logo: iconfont.png
       url: https://www.iconfont.cn/
       description: 阿里巴巴矢量图标库
+    - title: Worldvectorlogo
+      logo: Worldvectorlogo.ico
+      url: https://worldvectorlogo.com/zh
+      description: 免费适量品牌标志
   - term: 音效
     links:
     - title: artlist
@@ -392,3 +416,9 @@
       logo: TV garden.png
       url: https://tv.garden/
       description: 免费观看全球在线电视
+  - term: 代码
+    links:
+    - title: reactbits
+      logo: reactbits.png
+      url: https://www.reactbits.dev/
+      description: 开源 React 动画组件库
