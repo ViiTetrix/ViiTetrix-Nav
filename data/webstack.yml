@@ -219,6 +219,12 @@
       logo: Google AI Studio.jpg
       url: https://aistudio.google.com/status
       description: Google AI Studio and the Gemini API Status
+  - term: 其它
+    links:
+    - title: vram-calculator
+      logo: vram-calculator.png
+      url: https://apxml.com/tools/vram-calculator
+      description: 大模型运行资源计算器
 - taxonomy: 工具
   icon: fas fa-toolbox
   list:
@@ -394,6 +400,10 @@
       logo: gutenberg.png
       url: https://www.gutenberg.org/
       description: 收录版权过期的公版书
+    - title: SaltyLeo
+      logo: SaltyLeo.png
+      url: https://book.tstrs.me/search
+      description: 搜索
   - term: 影视
     links:
     - title: NoVIPNoAD
