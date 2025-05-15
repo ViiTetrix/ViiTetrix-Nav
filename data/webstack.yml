@@ -65,6 +65,10 @@
       logo: Paywall Buster.png
       url: https://paywallbuster.com/
       description: 打破付费墙
+    - title: Bloomberg
+      logo: bloomberg.svg
+      url: https://www.bloomberg.com/ai
+      description: 彭博社
 - taxonomy: ViiTetrix
   icon: fas fa-user-alt
   list:
@@ -151,7 +155,7 @@
     links:
     - title: Google AI Studio
       logo: Google AI Studio.jpg
-      url: https://aistudio.google.com/prompts/new_chat
+      url: https://ai.studio
       description: 使用 Gemini 开始构建的最快方法
   - term: Platform
     links:
