@@ -329,7 +329,7 @@
     - title: sms-activate
       logo: sms-activate.png
       url: https://sms-activate.guru/cn
-      description: 有余额
+      description: 有余额，但谷歌不好用
     - title: daisysms
       logo: daisySMS.png
       url: https://daisysms.com/
