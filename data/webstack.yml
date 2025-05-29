@@ -211,6 +211,10 @@
       logo: AI 文本检测.png
       url: https://ai-detector.fenz.ai/ai-detector?continueFlag=f99cec574e85101e19a1a0ca96697a71
       description: Demo
+    - title: Poolhub
+      logo: poolhub.svg
+      url: https://poolhub.me/
+      description: 佬的 cursor 池
   - term: 竞技场
     links:
     - title: lmarena
