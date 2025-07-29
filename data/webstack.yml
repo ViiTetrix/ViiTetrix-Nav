@@ -266,6 +266,10 @@
       logo: GreenVideo.png
       url: https://greenvideo.cc/
       description: 支持全球众多社交网络及视频平台的视频下载
+    - title: webtor
+      logo: webtor.png
+      url: https://webtor.io/
+      description: 磁力在线解析
   - term: 爬虫
     links:
     - title: Firecrawl
@@ -412,6 +416,10 @@
       logo: SaltyLeo.png
       url: https://book.tstrs.me/search
       description: 搜索
+    - title: 微信读书
+      logo: weread.png
+      url: https://weread.qq.com/
+      description: 微信读书
   - term: 影视
     links:
     - title: NoVIPNoAD
