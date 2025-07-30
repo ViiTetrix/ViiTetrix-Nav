@@ -442,6 +442,10 @@
       logo: TV garden.png
       url: https://tv.garden/
       description: 免费观看全球在线电视
+    - title: 看片狂人
+      logo: kanpian.png
+      url: https://kuangren.us/
+      description: 看片狂人地址发布页
   - term: 代码
     links:
     - title: reactbits
