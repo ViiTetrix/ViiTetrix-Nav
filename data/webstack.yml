@@ -270,6 +270,10 @@
       logo: webtor.png
       url: https://webtor.io/
       description: 磁力在线解析
+    - title: 盘搜
+      logo: pansou.png
+      url: https://github.com/fish2018/pansou
+      description: 网盘资源搜索
   - term: 爬虫
     links:
     - title: Firecrawl
@@ -446,6 +450,10 @@
       logo: kanpian.png
       url: https://kuangren.us/
       description: 看片狂人地址发布页
+    - title: LIBVIO
+      logo: libvio.png
+      url: https://www.libvio.app/
+      description: libfabu.com
   - term: 代码
     links:
     - title: reactbits
