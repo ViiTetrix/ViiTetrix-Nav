@@ -69,6 +69,10 @@
       logo: bloomberg.svg
       url: https://www.bloomberg.com/ai
       description: 彭博社
+    - title: Freedium
+      logo: freedium.png
+      url: https://freedium.cfd/
+      description: 免费 Medium
 - taxonomy: ViiTetrix
   icon: fas fa-user-alt
   list:
