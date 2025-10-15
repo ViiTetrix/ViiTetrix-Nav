@@ -373,6 +373,10 @@
       logo: artlist.png
       url: https://artlist.io/
       description: 付费订阅制 最佳免版税音效网站
+    - title: LookAE
+      logo: LookAE
+      url: https://www.lookae.com/
+      description: 大众脸影视后期特效
   - term: 图像
     links:
     - title: 麦田艺术
@@ -389,6 +393,10 @@
       logo: ZeoSeven™ Fonts.png
       url: https://fonts.zeoseven.com/
       description: 免费商用字体
+    - title: 字图 CDN
+      logo: 字图 CDN.png
+      url: https://chinese-font.netlify.app/zh-cn/cdn/
+      description: 让中文字体在互联网世界起飞
 - taxonomy: 资源
   icon: fas fa-th
   list:
@@ -428,6 +436,10 @@
       logo: weread.png
       url: https://weread.qq.com/
       description: 微信读书
+    - title: 古文之家
+      logo: guwenzhijia.png
+      url: https://www.cngwzj.com/
+      description: 下载各类已完成排版的古诗词文档
   - term: 影视
     links:
     - title: NoVIPNoAD
