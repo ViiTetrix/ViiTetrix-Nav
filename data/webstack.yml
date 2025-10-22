@@ -387,6 +387,10 @@
       logo: Artvee.png
       url: https://artvee.com/
       description: 发现最好的古典&现代艺术
+    - title: Lobehub
+      logo: Lobehub.png
+      url: https://lobehub.com/zh/icons
+      description: AI/LLM模型图标集
   - term: 字体
     links:
     - title: ZeoSeven™ Fonts
