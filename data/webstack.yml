@@ -474,6 +474,10 @@
       logo: libvio.png
       url: https://www.libvio.app/
       description: libfabu.com
+    - title: 音范丝
+      logo: yinfans.png
+      url: https://www.yinfans.me/
+      description: 精选蓝光原盘下载
   - term: 代码
     links:
     - title: reactbits
