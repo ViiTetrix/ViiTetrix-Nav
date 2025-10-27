@@ -395,6 +395,10 @@
       logo: Lobehub.png
       url: https://lobehub.com/zh/icons
       description: AI/LLM模型图标集
+    - title: signatureedits
+      logo: signatureedits.png
+      url: https://www.signatureedits.com/free-raw-photos/
+      description: free-raw-photos
   - term: 字体
     links:
     - title: ZeoSeven™ Fonts
