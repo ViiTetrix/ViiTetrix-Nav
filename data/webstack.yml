@@ -126,6 +126,10 @@
       logo: Spaceship.png
       url: https://www.spaceship.com/zh/launchpad/
       description: 域名
+    - title: Cloudflare
+      logo: Cloudflare.svg
+      url: https://dash.cloudflare.com/6c026bc31bbbbac5089b47c601bb6e1f/home/domains
+      description: Cloudflare
 - taxonomy: AI
   icon: fas fa-user-astronaut
   list:
