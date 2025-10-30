@@ -130,6 +130,12 @@
       logo: Cloudflare.svg
       url: https://dash.cloudflare.com/6c026bc31bbbbac5089b47c601bb6e1f/home/domains
       description: Cloudflare
+  - term: 设计
+    links:
+    - title: The Type
+      logo: The Type.png
+      url: https://www.thetype.com/
+      description: 文字设计与视觉文化
 - taxonomy: AI
   icon: fas fa-user-astronaut
   list:
@@ -219,10 +225,6 @@
       logo: AI 文本检测.png
       url: https://ai-detector.fenz.ai/ai-detector?continueFlag=f99cec574e85101e19a1a0ca96697a71
       description: Demo
-    - title: Poolhub
-      logo: poolhub.svg
-      url: https://poolhub.me/
-      description: 佬的 cursor 池
   - term: 竞技场
     links:
     - title: lmarena
