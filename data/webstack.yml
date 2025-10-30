@@ -108,6 +108,10 @@
       logo: Outlook.png
       url: https://outlook.live.com/mail/0/
       description: 微软邮箱
+    - title: SpaceMail
+      logo: SpaceMail.svg
+      url: https://www.spacemail.com/zh/mail/?m=1
+      description: 域名邮箱
   - term: 项目
     links:
     - title: Github
