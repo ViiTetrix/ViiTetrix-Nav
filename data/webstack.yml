@@ -320,7 +320,7 @@
       description: 发现创作的乐趣
     - title: W3C 中文排版规范
       logo: W3C.png
-      url: https://www.w3.org/TR/clreq/
+      url: https://w3c.github.io/clreq/
       description: 中文（汉字）书写系统于排版上的需求
     - title: Slidev
       logo: Slidev.png
@@ -356,6 +356,10 @@
       logo: daisySMS.png
       url: https://daisysms.com/
       description: 谷歌接码
+    - title: PingMe
+      logo: PingMe.png
+      url: https://pingme.tel/
+      description: 短信接码
 - taxonomy: 素材
   icon: fas fa-th-large
   list:
@@ -458,6 +462,10 @@
       logo: guwenzhijia.png
       url: https://www.cngwzj.com/
       description: 下载各类已完成排版的古诗词文档
+    - title: 源仓库
+      logo: yckceo.png
+      url: https://www.yckceo.com/
+      description: 阅读 App 书源
   - term: 影视
     links:
     - title: NoVIPNoAD
