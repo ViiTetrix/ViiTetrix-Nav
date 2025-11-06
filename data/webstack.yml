@@ -136,7 +136,7 @@
       description: Cloudflare
     - title: Diffchecker
       logo: diffchecker.svg
-      url: https://www.diffchecker.com/
+      url: https://www.diffchecker.com/zh-Hans/
       description: 比对不同
   - term: 设计
     links:
