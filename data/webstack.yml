@@ -134,10 +134,6 @@
       logo: Cloudflare.svg
       url: https://dash.cloudflare.com/6c026bc31bbbbac5089b47c601bb6e1f/home/domains
       description: Cloudflare
-    - title: Diffchecker
-      logo: diffchecker.svg
-      url: https://www.diffchecker.com/zh-Hans/
-      description: 比对不同
   - term: 设计
     links:
     - title: The Type
@@ -479,7 +475,7 @@
     - title: 低端影视
       logo: 低端影视.png
       url: https://ddys.info/
-      description: 免费、在线、无广、外语
+      description: 彻底下线了，免费、在线、无广、外语
     - title: 迷客电影
       logo: mini4k.png
       url: https://www.mini4k.pro/
