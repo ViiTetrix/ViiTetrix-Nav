@@ -500,6 +500,10 @@
       logo: yinfans.png
       url: https://www.yinfans.me/
       description: 精选蓝光原盘下载
+    - title: Sportsurge
+      logo: sportsurge.png
+      url: https://sportsurge.bz/
+      description: 体育赛事
   - term: 代码
     links:
     - title: reactbits
