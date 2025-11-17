@@ -288,6 +288,10 @@
       logo: pansou.png
       url: https://github.com/fish2018/pansou
       description: 网盘资源搜索
+    - title: Wormhole
+      logo: Wormhole.png
+      url: https://wormhole.app/
+      description: 简单，私密的文件分享
   - term: 爬虫
     links:
     - title: Firecrawl
@@ -360,6 +364,10 @@
       logo: PingMe.png
       url: https://pingme.tel/
       description: 短信接码
+    - title: 5sim
+      logo: 5sim.png
+      url: https://5sim.net/zh
+      description: 一次性虚拟号码
 - taxonomy: 素材
   icon: fas fa-th-large
   list:
