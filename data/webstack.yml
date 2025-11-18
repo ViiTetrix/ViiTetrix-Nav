@@ -140,6 +140,10 @@
       logo: The Type.png
       url: https://www.thetype.com/
       description: 文字设计与视觉文化
+    - title: ColorPalettePro
+      logo: ColorPalettePro.png
+      url: https://colorpalette.pro/
+      description: 难以想象的配色网站
 - taxonomy: AI
   icon: fas fa-user-astronaut
   list:
